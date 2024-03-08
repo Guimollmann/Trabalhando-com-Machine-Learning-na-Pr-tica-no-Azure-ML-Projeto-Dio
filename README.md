@@ -1,7 +1,7 @@
 # Trabalhando-com-Machine-Learning-na-Pratica-no-Azure-ML-Projeto-Dio
-## Trabalhando com Machine Learning na Prática no Azure ML
+
 ## Segue abaixo principais instruções para a criação 
-## Primeiramente foi necessário criar um recurso de Machine Learning.
+# Primeiramente foi necessário criar um recurso de Machine Learning.
     • Clicar em CRIAR RECURSO ( botão +) e depois pesquisar por Azure Machine Learning no chamado marketplace. Após encontrar o recurso, criar.
     • Na aba NOÇÕES BÁSICAS, DETALHE DE RECURSOS, é  necessário informar a assinatura para cobrança (campo Assinatura ) e  informar o GRUPO DE RECURSOS que  englobarão o recurso.
     • Em DETALHES DA ÁREA DE TRABALHO, informar os detalhes do workspace que será criado: Nome, Região e Conta de Armazenamento. Para finalizar clicar Consultar + criar. Após a 
@@ -16,7 +16,7 @@
     • Clicar em AVANÇAR.
     • Em Fonte de dados  escolher o botão  De arquivos da Web
     • Clicar em AVANÇAR.
-    • No quesito  URL da Web informar a URL desejada, neste caso a utilizada foi https://aka.ms/bike-rentals
+    • No quesito  URL da Web informar a URL desejada, neste caso a utilização foi feito [site]( https://aka.ms/bike-rentals)
     • Em quesito configurações preencher  as configurações do conjunto avançar para Esquema. Verificar os dados criados
     • Verificar as configurações criadas e clicar em CRIAR.
     • No quesito Configurações de tarefas a escolha foi pôr o  conjunto de dados importado.
@@ -42,6 +42,8 @@
 
   
  ## Para o teste realizado se obteve o json abaixo:
+
+
 
   ## A previsão gerada foi:
 
